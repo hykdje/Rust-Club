@@ -1,0 +1,52 @@
+body {
+  font-size: 100%;
+  background: #BDBAAD;
+  font-family: 'Roboto Mono', monospace;
+  font-size: .8rem;
+  color:
+}
+
+a {
+  font-family: 'Roboto Mono', monospace;
+  color: black;
+  font-size: .8rem;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+color: black;
+}
+
+a:active {
+  color: lightcoral;
+}
+
+.copyright {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 10px;
+}
+
+.gallery {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.work {
+  width: 100%;
+  padding: 0px;
+  margin: 0 0 1px 0;
+  line-height: 1px;
+}
